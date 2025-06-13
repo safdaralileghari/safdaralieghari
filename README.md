@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats & Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safdaralileghari&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safdaralileghari&layout=donut&theme=radical)
 ![Safdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=safdaralileghari&show_icons=true&theme=radical)
 
 ---
@@ -53,9 +53,9 @@
 ---
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://facebook.com/YOUR-FB" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="fb" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR-INSTA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="insta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/safdar-ali-a47676221/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100053898203702" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="fb" height="30" width="40" /></a>
+
 </p>
 
 ---
